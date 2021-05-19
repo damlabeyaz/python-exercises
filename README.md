@@ -1,6 +1,6 @@
 # python-exercises
 
-This repository contains all programming examples from (this Udemy course)[https://www.udemy.com/course/python-bootcamp/].
+This repository contains all programming examples from [this Udemy course](https://www.udemy.com/course/python-bootcamp/).
 
 ## Usage
 
